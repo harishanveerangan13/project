@@ -92,8 +92,25 @@
 #     if(b >= 20):#
 #         print(a)
 
-#Task #
-#check whether the given year is  leap year use input statment 2021,2020
-#find the largest of three numbers use input statement
 
+# a = 1
+# while (a<10):
+#     print(a)
+#     # a = a+1
 
+# for i in range(10):
+#     print(i)
+#
+# for i in range(10, 20):
+#     print(i)
+#
+# for i in range(10, 20, 2):
+#     print(i)
+#
+# for i in range(100, 20, -2):
+#     print(i)
+#
+# a = "Harishan"
+#
+# for i in a:
+#     print(i, end=",")
