@@ -114,3 +114,17 @@
 #
 # for i in a:
 #     print(i, end=",")
+
+# var = (insert number)
+#
+# for i in range(2, var):
+#     if (var % i) == 0:
+#         print("number is not a prime number")
+#         print(var % i)
+#         break
+#
+# else:
+#     print("Number is prime")
+
+
+
