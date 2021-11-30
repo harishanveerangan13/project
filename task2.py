@@ -25,17 +25,17 @@
 #
 # #code that prints alphabets a-z
 #
-
-x = int(input("Enter the number: "))
-reverse = 0
-
-
-while (x != 0):
-    rem = x % 10
-    reverse = reverse*10+rem
-    x = x//10
-
-print(reverse) #step 1 x = 123  reverse = 0 then 123 != 0 true rem = 3 reverse = 0*10+3 x = 123//10 x = 12
+#
+# x = int(input("Enter the number: "))
+# reverse = 0
+#
+#
+# while (x != 0):
+#     rem = x % 10
+#     reverse = reverse*10+rem
+#     x = x//10
+#
+# print(reverse) #step 1 x = 123  reverse = 0 then 123 != 0 true rem = 3 reverse = 0*10+3 x = 123//10 x = 12
 
 #step 2 x = 12 true rem = 2 reverse = 32 then x = 12//10 x = 1 then
 
